@@ -1,4 +1,4 @@
-# IdleArmadaIssues
+### Idle Armada Issue Tracker
 ![Idle Armada](https://steamcdn-a.akamaihd.net/steam/apps/1408060/header.jpg?t=1600867254)
 
 [Try the Web Demo](https://corfe83.github.io/IdleArmada/)

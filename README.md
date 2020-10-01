@@ -6,4 +6,5 @@
 
 # Full Game
 [Buy for Steam](https://store.steampowered.com/app/1408060/Idle_Armada/)
+
 [Buy for Android](https://play.google.com/store/apps/details?id=com.musicalbox.idle.armada)
